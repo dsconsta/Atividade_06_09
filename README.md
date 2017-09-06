@@ -2,5 +2,5 @@
 <h1>Atividade Extra TecWeb/DevOps: </h1>
 <h2>Integrantes:</h2>
 <table>
-<td>Diego Santos Constantino</td> <th>R.A: 1700677</th> <th>ADS2A</th>
+<td>Diego Santos Constantino</td> <th>R.A: 1700677</th> <th>ADS2A</th> <br/>
 <td>Matheus Scotini Rozario</td> <th>R.A: 1700161</th> <th>ADS2A</th>
