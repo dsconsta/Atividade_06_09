@@ -1,0 +1,77 @@
+ .classp{font-size:30px;font-family:arial}
+.classbody{background-image: url(olimpia.jpeg)}
+.classh1{text-align:center;font-size:65px}
+.classdiv{float:center;width:950px;height:50px;background-color:#000000;border-size:25px #ffffff; border-style:inset}
+a:link{color:#000}
+a:visited{color:##BA55D3}
+a:hover{color:#FFF}
+.classth{font-size:35px;text-align:right}
+.classtable{border-style:solid;border-color:#000000;align:center;border-collapse:collapse}
+.classthmenu{font-size:35px}
+.classh2{text-align:center;font-size:40px}
+.classdiv1{color:#000;float:left;width:495px;height:200px;border:3px #000 groove}
+.classdiv2{color:#000;float:right;width:400px;height:200px;border:3px #000 groove}
+.classdd{font-size:25px;font-weight:bold;text-align:center}
+.classdt{font-size:25px}
+.classp1{padding-left:10px;font-family:Comic Sans MS;font-size:25px}
+.classp7{padding-:10px;text-align:center;font-size:20px}
+.classth1{font-size:30px;font-weight:bold;border-style:solid;background-color:#99ffff}
+.classtd1{font-size:30px;border-style:solid;background-color:#99ffff}
+.classdl{text-align:center}
+.classimg{width:200px;height:200px;margin:0 auto}
+.classdiv3{float:left;width:400px;height:350px;background-color:#99ffff;border:3px #000 groove}
+.classdiv4{float:right;width:500px;height:150px;background-color:#99ffff;border:3px #000 groove}
+
+*{margin: 0; padding: 0;}
+ 
+body{
+font-family: arial, helvetica, sans-serif;
+font-size: 12px;
+}
+ 
+.menu{
+list-style:none;
+border:1px solid #c0c0c0;
+float:left;
+}
+
+.menu li{
+position:relative;
+float:left;
+border-right:1px solid #c0c0c0;
+}
+.menu li a{background-color:#FFF;color:#333; text-decoration:none; padding:5px 30px; display:block;}
+ 
+.menu li a:hover{
+background:#333;
+color:#fff;
+-moz-box-shadow:0 3px 10px 0 #CCC;
+-webkit-box-shadow:0 3px 10px 0 #ccc;
+text-shadow:0px 0px 5px #fff;
+}
+.menu li  ul{
+position:absolute;
+top:25px;
+left:0;
+background-color:#fff;
+display:none;
+}
+.menu li:hover ul, .menu li.over ul{display:block;}
+.menu li ul li{
+border:1px solid #c0c0c0;
+display:block;
+width:150px;
+}
+
+ form,input,select,textarea{margin:0; padding:0; color:#ffffff;}
+ div.box { margin:0 auto; width:500px; background:#176ca6; position:relative; top:50px; border:1px solid #262626; }
+ div.box h1 { color:#ffffff; font-size:18px; text-transform:uppercase; padding:5px 0 5px 5px; border-bottom:1px solid #161712; border-top:1px solid #161712; }
+ div.box label { width:100%; display: block; background:#176ca6; border-top:1px solid #262626; border-bottom:1px solid #161712; padding:10px 0 10px 0; }
+ div.box label span { display: block; color:#bbbbbb; font-size:12px; float:left; width:100px; text-align:right; padding:5px 20px 0 0; } 
+ div.box select{background-color:#262626}
+div.box .input_text { padding:10px 10px; width:200px; background:#262626; border-bottom: 1px double #171717; border-top: 1px double #171717; border-left:1px double #333333; border-right:1px double #333333; }
+ div.box .message{ padding:7px 7px; width:350px; background:#262626; border-bottom: 1px double #171717; border-top: 1px double #171717; border-left:1px double #333333; border-right:1px double #333333; overflow:hidden; height:150px; } 
+div.box .button{ margin:0 0 10px 0; padding:4px 7px; background:#660000; border:0px; position: relative; top:10px; left:382px; width:100px; border-bottom: 1px double #660000; border-top: 1px double #660000; border-left:1px double #FF0033; border-right:1px double #FF0033; }
+
+
+
